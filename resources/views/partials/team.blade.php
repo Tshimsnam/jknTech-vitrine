@@ -2,8 +2,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2> Notre Équipe</h2>
+        <p>Chez  JKTech , notre force réside dans notre équipe de professionnels passionnés et expérimentés.</p>
     </div><!-- End Section Title -->
 
     <div class="container">

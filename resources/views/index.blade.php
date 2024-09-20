@@ -5,7 +5,7 @@
         <!-- /Hero Section -->
 
         <!-- Featured Services Section -->
-        @include('partials.features')
+        {{-- @include('partials.features') --}}
         <!-- /Featured Services Section -->
 
         <!-- About Section -->
@@ -13,7 +13,7 @@
         <!-- /About Section -->
 
         <!-- Why Us Section -->
-        @include('partials.why-us')
+        {{-- @include('partials.why-us') --}}
         <!-- /Why Us Section -->
 
         <!-- Clients Section -->
@@ -25,11 +25,11 @@
         <!-- /Services Section -->
 
         <!-- Call To Action Section -->
-        @include('partials.cta')
+        {{-- @include('partials.cta')
         <!-- /Call To Action Section -->
 
         <!-- Portfolio Section -->
-        @include('partials.portfolio')
+        @include('partials.portfolio') --}}
         <!-- /Portfolio Section -->
 
         <!-- Team Section -->

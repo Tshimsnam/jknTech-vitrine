@@ -3,7 +3,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Les différents services offerts :</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -13,55 +13,49 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-item item-cyan position-relative">
                     <i class="bi bi-activity icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Nesciunt Mete</a></h3>
-                    <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure
-                        perferendis tempore et consequatur.</p>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Développement d'applications</a></h3>
+                    <p>Création de solutions web, mobiles et desktop adaptées aux besoins des clients.  </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="service-item item-orange position-relative">
                     <i class="bi bi-broadcast icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Eosle Commodi</a></h3>
-                    <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic
-                        non ut nesciunt dolorem.</p>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Réseau informatique</a></h3>
+                    <p>Installation, maintenance et gestion de réseaux informatiques performants et sécurisés.  </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="service-item item-teal position-relative">
                     <i class="bi bi-easel icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Ledo Markt</a></h3>
-                    <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas
-                        adipisci eos earum corrupti.</p>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Sécurité des systèmes d’information</a></h3>
+                    <p>Protection avancée contre les menaces informatiques avec des solutions robustes.  </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="service-item item-red position-relative">
                     <i class="bi bi-bounding-box-circles icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Asperiores Commodi</a>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Installation de caméras de surveillance</a>
                     </h3>
-                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit
-                        provident adipisci neque.</p>
+                    <p>Sécurisation des locaux avec des systèmes de vidéosurveillance intelligents.  </p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                 <div class="service-item item-indigo position-relative">
                     <i class="bi bi-calendar4-week icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Velit Doloremque.</a></h3>
-                    <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi
-                        at autem alias eius labore.</p>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Formation </a></h3>
+                    <p>Programmes de formation sur mesure dans les domaines technologiques émergents, pour renforcer les compétences des professionnels et des entreprises.</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                 <div class="service-item item-pink position-relative">
                     <i class="bi bi-chat-square-text icon"></i>
-                    <h3><a href="service-details.html" class="read-more stretched-link">Dolori Architecto</a></h3>
-                    <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure.
-                        Corrupti recusandae ducimus enim.</p>
+                    <h3><a href="service-details.html" class="read-more stretched-link">Support IT  </a></h3>
+                    <p>Assistance technique complète et gestion proactive des infrastructures informatiques pour assurer leur performance et sécurité.</p>
                 </div>
             </div><!-- End Service Item -->
 

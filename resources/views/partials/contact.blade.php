@@ -2,8 +2,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Nous contactez</h2>
+        <p>Pour toute information complémentaire, veuillez prendre contact avec nous</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -16,24 +16,24 @@
                     <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                         <i class="bi bi-geo-alt flex-shrink-0"></i>
                         <div>
-                            <h3>Address</h3>
-                            <p>A108 Adam Street, New York, NY 535022</p>
+                            <h3>Adresse :</h3>
+                            <p> Ngaliema, Kinshasa, République Démocratique du Congo</p>
                         </div>
                     </div><!-- End Info Item -->
 
                     <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                         <i class="bi bi-telephone flex-shrink-0"></i>
                         <div>
-                            <h3>Call Us</h3>
-                            <p>+1 5589 55488 55</p>
+                            <h3>Téléphone </h3>
+                            <p>+243 817 138 062</p>
                         </div>
                     </div><!-- End Info Item -->
 
                     <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
                         <i class="bi bi-envelope flex-shrink-0"></i>
                         <div>
-                            <h3>Email Us</h3>
-                            <p>info@example.com</p>
+                            <h3>Email</h3>
+                            <p>jktech@jktech.com</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -50,19 +50,19 @@
                     <div class="row gy-4">
 
                         <div class="col-md-6">
-                            <label for="name-field" class="pb-2">Your Name</label>
+                            <label for="name-field" class="pb-2">Votre Nom</label>
                             <input type="text" name="name" id="name-field" class="form-control"
                                 required="">
                         </div>
 
                         <div class="col-md-6">
-                            <label for="email-field" class="pb-2">Your Email</label>
+                            <label for="email-field" class="pb-2">Votre Email</label>
                             <input type="email" class="form-control" name="email" id="email-field"
                                 required="">
                         </div>
 
                         <div class="col-md-12">
-                            <label for="subject-field" class="pb-2">Subject</label>
+                            <label for="subject-field" class="pb-2">Sujet</label>
                             <input type="text" class="form-control" name="subject" id="subject-field"
                                 required="">
                         </div>
@@ -77,7 +77,7 @@
                             <div class="error-message"></div>
                             <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                            <button type="submit">Send Message</button>
+                            <button type="submit">Envoyer un message</button>
                         </div>
 
                     </div>
