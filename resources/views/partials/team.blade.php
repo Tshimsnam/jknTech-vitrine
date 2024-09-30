@@ -14,7 +14,7 @@
                 <div class="member">
                     <img src="{{ asset('assets/img/team/team-1.jpg') }}" class="img-fluid" alt="">
                     <div class="member-content">
-                        <h4>Walter White</h4>
+                        <h4>Junior K</h4>
                         <span>Web Development</span>
                         <p>
                             Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis
@@ -34,7 +34,7 @@
                 <div class="member">
                     <img src="{{ asset('assets/img/team/team-2.jpg') }}" class="img-fluid" alt="">
                     <div class="member-content">
-                        <h4>Sarah Jhinson</h4>
+                        <h4>Junior K</h4>
                         <span>Marketing</span>
                         <p>
                             Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum
@@ -54,7 +54,7 @@
                 <div class="member">
                     <img src="{{ asset('assets/img/team/team-3.jpg') }}" class="img-fluid" alt="">
                     <div class="member-content">
-                        <h4>William Anderson</h4>
+                        <h4>Junior K</h4>
                         <span>Content</span>
                         <p>
                             Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum
